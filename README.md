@@ -18,10 +18,10 @@ If you find these tools useful, please cite our work:
 
 The `doi` will be provided once available.
 
-More information about the authors:
+More information about the authors:  
 > **Jorge Valdivia** [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4251--1108-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0009-0003-4251-1108) <br>  
 > **Xiuqi Xi** [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3245--232X-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0003-3245-232X) <br>  
-> **Albert Simeoni** [![ORCID](https://img.shields.io/badge/0000-0002-5497-3794-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0002-5497-3794) <br>  
+> **Albert Simeoni** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5497--3794-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0002-5497-3794) <br>  
 > **James L. Urban** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2476--8212-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0002-2476-8212) <br>  
 
 
