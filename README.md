@@ -53,10 +53,15 @@ More information about the authors:
 
 **Notebook:** [`ignition.ipynb`](ignition.ipynb)
 
-### 2. Thermal Model
+### 2. Thermally controlled ignition model
 
-- 1D transient heat transfer model for a pine needle
-- Includes convective, radiative, and re-radiative terms
+- Implements a 0D transient energy balance on a pine needle (cylindrical element) under convective flow.
+- Includes convective heating, radiative input from plenum walls, and radiative losses.
+- Uses experimentally derived parameters (e.g., gas temperature, flow velocity, surface area).
+- Predicts ignition delay time for a critical solid temperature ($T_{s,cr}$).
+- Results are compared with experimental measurements for validation.
+
+**Notebook:** [`thermal-model.ipynb`](thermal-model.ipynb)
 
 ### 3. Gas Phase Ignition and Flame Propagation
 
