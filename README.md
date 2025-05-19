@@ -46,9 +46,12 @@ More information about the authors:
 
 ### 1. Ignition Data
 
-- Time-to-ignition for various fuel moisture contents
-- Includes thermocouple and flow velocity data
-- See `ignition_data/README.md` for details
+- Time-to-ignition measurements for Douglas fir samples under hot convective flow.
+- Includes statistical analysis of ignition probability as a function of gas temperature and fuel moisture content (FMC).
+- Contains logistic regression to identify the critical gas temperature ($T_{gas,cr}$) for 50% ignition probability.
+- Evaluates the duration between glowing combustion and flaming ignition ($\Delta t = t_{ig} - t_{glow}$).
+
+**Notebook:** [`ignition.ipynb`](ignition.ipynb)
 
 ### 2. Thermal Model
 
