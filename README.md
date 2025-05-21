@@ -1,4 +1,4 @@
-# 🔥 Glowing to Flaming Transition of Douglas Fir with Varied Moisture Content
+# Glowing to Flaming Transition of Douglas Fir with Varied Moisture Content
 
 This repository contains the datasets, models, and simulation files developed for the study:
 
@@ -26,7 +26,6 @@ More information about the authors:
 > **Xiuqi Xi** [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3245--232X-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0003-3245-232X) <br>  
 > **Albert Simeoni** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5497--3794-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0002-5497-3794) <br>  
 > **James L. Urban** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2476--8212-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0002-2476-8212) <br>  
-
 
 ---
 
@@ -75,7 +74,6 @@ More information about the authors:
 
 - FDS v6.9.1 simulations using the spark ignition model
 - Includes geometry, boundary conditions, Lagrangian fuel particles, and post-processing tools
-
 
 ---
 
