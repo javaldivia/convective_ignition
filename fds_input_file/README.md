@@ -13,7 +13,7 @@ This folder contains the Fire Dynamics Simulator (FDS) input file used to simula
 ## 🧱 Domain and Mesh
 
 - Full 3D domain dimensions: 40 cm × 40 cm × 40 cm
-- Multiple sub-meshes used to preserve resolution and parallelization efficiency
+- Multiple sub-meshes used to preserve resolution and parallelization efficiency (16 meshes in `convective_ignition.fds` file)
 - Mesh resolution: uniform, with IJK = 32 × 32 × 16 per block
 
 To run individual file from `command prompt`:
