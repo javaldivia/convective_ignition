@@ -70,10 +70,15 @@ More information about the authors:
 - Code to detect gas-phase ignition kernel and estimate vertical flame velocity
 - Analyzed using OpenCV on high-speed video recordings
 
-### 4. Numerical Simulation (FDS)
+### 4. Numerical Simulation (FDS) ([📁 `fds_input_file/`](fds_input_file/))
 
-- FDS v6.9.1 simulations using the spark ignition model
-- Includes geometry, boundary conditions, Lagrangian fuel particles, and post-processing tools
+- Fire Dynamics Simulator (FDS) setup replicating the convective ignition apparatus.
+- Includes mesh layout, inflow conditions, Lagrangian fuel particles, and ignition criteria.
+- A simplified spark model is used to trigger gas-phase ignition based on solid temperature.
+- Simulation is validated against experimental observations (ignition delay time).
+
+**See full details in** [`fds_input_file/README.md`](fds_input_file/README.md)
+
 
 ---
 
