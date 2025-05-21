@@ -5,6 +5,9 @@ This repository contains the datasets, models, and simulation files developed fo
 **"Glowing to flaming transition of Douglas fir with varied moisture content"**  
 Published in *Fire Safety Journal*, 2025.
 
+📄 **The preprint manuscript is included in this repository and can be accessed [HERE](Manuscript.pdf).**  
+_This version is *accepted* for publication._
+
 If you find these tools useful, please cite our work:
 
 ```bibtex
