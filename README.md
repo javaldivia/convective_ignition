@@ -81,7 +81,7 @@ More information about the authors:
 
 All code was tested using:
 - Python 3.13
-- FDS 6.9.1
+- [FDS 6.9.1](https://github.com/firemodels/fds/releases/tag/FDS-6.9.1)
 
 ---
 
