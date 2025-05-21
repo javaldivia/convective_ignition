@@ -58,7 +58,7 @@ fds_local -p 16 convective_ignition.fds
 ## 💨 Combustion and Chemistry
 
 - Infinitely fast gas-phase combustion model
-- Fuel: C₂.₁H₆.₂O₂.₁₆
+- Fuel molecular formula: C=2.10, H=6.20, O=2.16
 - Heat of combustion: 17,425 kJ/kg
 - Flame radiation fraction: 0.35
 - Soot yield: 0.02 (based on wildland fire standards)
