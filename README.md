@@ -2,11 +2,15 @@
 
 This repository contains the datasets, models, and simulation files developed for the study:
 
-**"Glowing to flaming transition of Douglas fir with varied moisture content"**  
-Published in *Fire Safety Journal*, 2025.
-
-📄 **The preprint manuscript is included in this repository and can be accessed [HERE](Manuscript.pdf).**  
-_This version is *accepted* for publication._
+> **"Glowing to flaming transition of Douglas fir with varied moisture content"** 
+> Authors:  <br>
+> **Jorge Valdivia** [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4251--1108-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0009-0003-4251-1108) <br>
+> **Xiuqi Xi** [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3245--232X-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0003-3245-232X) <br>
+> **Albert Simeoni** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5497--3794-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0002-5497-3794) <br>
+> **James L. Urban** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2476--8212-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0002-2476-8212) <br>
+> *Fire Safety Journal*, 2025.  
+> **DOI:** To be determined  
+> **Status:** Accepted for publication
 
 If you find these tools useful, please cite our work:
 
@@ -21,18 +25,15 @@ If you find these tools useful, please cite our work:
 
 The `doi` will be provided once available.
 
-More information about the authors:  
-> **Jorge Valdivia** [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4251--1108-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0009-0003-4251-1108) <br>  
-> **Xiuqi Xi** [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3245--232X-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0003-3245-232X) <br>  
-> **Albert Simeoni** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5497--3794-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0002-5497-3794) <br>  
-> **James L. Urban** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2476--8212-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0002-2476-8212) <br>  
+📄 **The preprint manuscript is included in this repository and can be accessed [HERE](Manuscript.pdf).**  
+_This version is *accepted* for publication._
 
 ---
 
 ## 📦 Repository Version
 
 - **Version**: 1.0.0  
-- **Release Date**: May 19, 2025  
+- **Release Date**: May 27, 2025  
 - **Changelog**: Initial release
 
 ---
@@ -87,6 +88,16 @@ More information about the authors:
 All code was tested using:
 - Python 3.13
 - [FDS 6.9.1](https://github.com/firemodels/fds/releases/tag/FDS-6.9.1)
+
+---
+
+## Acknowledgments
+
+This project was supported by the California Department of Forestry and Fire Protection’s Forest Health Program as part of the California Climate Investments Program (Grant No. 8GG21827).
+
+We thank Frederick Brokaw, Laboratory Director at WPI, for his invaluable assistance in facilitating the experiments.
+
+We also acknowledge the Pearsall Fund at WPI for supporting the acquisition of the high-speed camera used in this work.
 
 ---
 
