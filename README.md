@@ -3,6 +3,7 @@
 This repository contains the datasets, models, and simulation files developed for the study:
 
 > **"Glowing to flaming transition of Douglas fir with varied moisture content"** 
+>
 > Authors:  <br>
 > **Jorge Valdivia** [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4251--1108-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0009-0003-4251-1108) <br>
 > **Xiuqi Xi** [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3245--232X-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0003-3245-232X) <br>
