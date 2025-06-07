@@ -25,7 +25,7 @@ If you find these tools useful, please cite our work:
   }
 ```
 
-📄 **The preprint manuscript is included in this repository and can be accessed [HERE](Manuscript.pdf).**  
+📄 **The preprint manuscript is included in this repository and can be accessed [HERE](Valdivia-et-al-2025.pdf).**  
 _This version is *accepted* for publication._
 
 ---
@@ -48,7 +48,7 @@ _This version is *accepted* for publication._
 
 ---
 
-### 1. Experimental Data ([exp_data/](exp_data/))
+### 1. Experimental Data ([📁 `exp_data/`](exp_data/))
 
 - Contains the dataset `exp_data.csv` with ignition delay, FMC, thermocouple data, flame measurements, among others.
 - A local [README file](exp_data/README.md) describes each column, units, and relevant notes.
