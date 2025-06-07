@@ -10,7 +10,7 @@ This repository contains the datasets, models, and simulation files developed fo
 > **Albert Simeoni** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5497--3794-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0002-5497-3794) <br>
 > **James L. Urban** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2476--8212-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0002-2476-8212) <br>
 > *Fire Safety Journal*, 2025.  
-> **DOI:** To be determined  
+> **DOI:** [10.1016/j.firesaf.2025.104430](https://doi.org/10.1016/j.firesaf.2025.104430)
 > **Status:** Accepted for publication
 
 If you find these tools useful, please cite our work:
@@ -20,11 +20,10 @@ If you find these tools useful, please cite our work:
   title   = {Glowing to flaming transition of Douglas fir with varied moisture content [manuscript accepted for publication]},
   journal = {Fire Safety Journal},
   year    = {2025},
-  author  = {Jorge Valdivia and Xiuqi Xi and Albert Simeoni and James L. Urban}
+  author  = {Jorge Valdivia and Xiuqi Xi and Albert Simeoni and James L. Urban},
+  doi = {10.1016/j.firesaf.2025.104430}
   }
 ```
-
-The `doi` will be provided once available.
 
 📄 **The preprint manuscript is included in this repository and can be accessed [HERE](Manuscript.pdf).**  
 _This version is *accepted* for publication._
@@ -34,7 +33,7 @@ _This version is *accepted* for publication._
 ## 📦 Repository Version
 
 - **Version**: 1.0.0  
-- **Release Date**: May 27, 2025  
+- **Release Date**: June 06, 2025  
 - **Changelog**: Initial release
 
 ---
