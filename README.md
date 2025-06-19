@@ -11,14 +11,16 @@ This repository contains the datasets, models, and simulation files developed fo
 > **James L. Urban** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2476--8212-a6ce39?logo=orcid&style=flat-square)](https://orcid.org/0000-0002-2476-8212) <br>
 > *Fire Safety Journal*, 2025.  
 > **DOI:** [10.1016/j.firesaf.2025.104430](https://doi.org/10.1016/j.firesaf.2025.104430) <br>
-> **Status:** Pre-proof published
+> **Status:** Published
 
 If you find these tools useful, please cite our work:
 
 ```bibtex
 @article{Valdivia2025,
-  title   = {Glowing to flaming transition of Douglas fir with varied moisture content [manuscript accepted for publication]},
+  title   = {Glowing to flaming transition of Douglas fir with varied moisture content},
   journal = {Fire Safety Journal},
+  volume = {156},
+  pages = {104430},
   year    = {2025},
   author  = {Jorge Valdivia and Xiuqi Xi and Albert Simeoni and James L. Urban},
   doi = {10.1016/j.firesaf.2025.104430}
